@@ -1,4 +1,4 @@
-<img src="hyperverse.png" alt="hyperverse" width="100%" height="200px">
+<img src="hyperverse.png" alt="hyperverse" width="100%" height="auto">
 
 ## hyperverse
 
