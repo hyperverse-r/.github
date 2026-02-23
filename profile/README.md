@@ -31,8 +31,16 @@ The hyperverse is an ecosystem of R packages for building server-driven web appl
 
 ### Get started
 
+**From CRAN:**
+
 ```r
 install.packages("htmxr")
+```
+
+**Development version:**
+
+```r
+pak::pak("hyperverse-r/htmxr")
 ```
 
 ```r
