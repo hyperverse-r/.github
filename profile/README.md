@@ -15,9 +15,10 @@ The hyperverse is an ecosystem of R packages for building server-driven web appl
 |---------|------|--------|
 | [htmxr](https://github.com/hyperverse-r/htmxr) | Core — htmx primitives and plumber2 integration | [![CRAN status](https://www.r-pkg.org/badges/version/htmxr)](https://cran.r-project.org/package=htmxr) |
 | [htmxr.bootstrap](https://github.com/hyperverse-r/htmxr.bootstrap) | Opinionated Bootstrap layer on top of htmxr | In development |
-| htmxr.daisy | Opinionated DaisyUI layer on top of htmxr | In development |
+| htmxr.daisy | Opinionated DaisyUI layer on top of htmxr | Planned |
 | alpiner | Alpine.js wrapper — declarative client-side logic | Planned |
 | supar | Supabase client for R — query your database over HTTP without writing SQL | Planned |
+| [lucidr](https://github.com/hyperverse-r/lucidr) | A lightweight R wrapper for Lucide icons | 0.1.0 |
 
 ---
 
